@@ -1,1 +1,1 @@
-# bigdata-to-databricks-demo
+# hadoop-to-databricks-demo
