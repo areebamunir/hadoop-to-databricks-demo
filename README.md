@@ -16,7 +16,7 @@ You have two options depending on your goals:
 #### ✅ **Option 1: Databricks Community Edition (Free, No Cloud Required)**  
 Ideal for beginners and demos. Doesn’t require AWS or Azure setup.
 
-🔗 [Sign Up for Databricks Community Edition](https://www.youtube.com/watch?v=RXN6L6v-YC0)
+🔗 [Sign Up for Databricks Community Edition](https://www.youtube.com/watch?v=2QKk-h3_9ao)
 
 #### 🚀 **Option 2: Free Premium Databricks Account on Azure**  
 Get access to premium Databricks features using a free Azure account.
