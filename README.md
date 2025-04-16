@@ -9,7 +9,7 @@ To create a free Microsoft Azure account (includes $200 credits for 30 days + li
 
 🔗 [Create Free Azure Account (Step-by-Step Guide)](https://www.youtube.com/watch?v=_ned_Ighz4o&t=116s)
 
-### 2. 🧱 **Create a Databricks Account**
+### 2. **Create a Databricks Account**
 
 You have two options depending on your goals:
 
